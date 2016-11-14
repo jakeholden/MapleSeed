@@ -14,8 +14,7 @@ turbine analysis. Application of the Betz Limit and one-dimensional momentum the
 allowed for empirical and computational power and thrust coefficients to be computed for
 maple seeds. It has been determined that the investigated species of maple seeds perform
 near the Betz limit for power conversion and thrust coefficient. The power coefficient for a
-maple seed is found to be in the range of 48 - 54% and the thrust coefficient in the range of 66
-- 84%. From Betz theory, the stream tube area expansion of the maple seed is necessary for
+maple seed is found to be in the range of 48 - 54% and the thrust coefficient in the range of 66 - 84%. From Betz theory, the stream tube area expansion of the maple seed is necessary for
 power extraction. Further investigation of computational solutions and mechanical analysis
 find three key reasons for high maple seed performance. First, the area expansion is driven
 by maple seed lift generation changing the fluid momentum and requiring area to increase.
